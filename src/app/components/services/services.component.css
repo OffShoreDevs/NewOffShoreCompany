@@ -1,0 +1,88 @@
+.home-page-container{
+    background-image: url("../../../assets/image/header1.jpg");
+    height: 730px;
+    color:white;
+}
+
+.start-company-div{
+    background-color: #ff1200;
+    padding: 38px;
+    margin: 136px 0px;
+}
+
+.buttonOutline{
+    border: 2px solid white;
+    padding: 15px 25px 15px 25px;
+    border-radius: 50px;
+    font-size: 18px;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.content-line-space{
+    line-height: 28px;
+}
+.under-line{
+    text-decoration: underline;
+}
+.heading-line-space{
+    line-height: 40px;
+}
+.start-with-us{
+    padding: 120px 0px;
+}
+.border-left{
+    border-left: 13px solid red;
+}
+.start-content-para{
+    line-height: 25px;
+    font-size: 16px;
+    color: black;
+    margin-top: 6%;
+}
+.checkUl{
+    text-align: center;
+    margin-top: 108px;
+}
+.checkUl li {
+    line-height: 180%;
+    list-style: none;
+    color: #007409;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.contact-us-container{
+    color: white;
+    background-color: #393939;
+    border-top: 18px solid red;
+    padding: 145px 0px;
+    text-align: center;
+}
+.services-image{
+    background-image: url("../../../assets/image/consulting.jpg");
+    height: 448px;
+    width: 118%;
+}
+.services-Ul li {
+    line-height: 216%;
+    list-style: none;
+    color: red;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.text-color-red{
+    color:red;
+}
+.product-container{
+    background-color: red;
+    padding: 120px 0px;
+    color: white;
+}
+.border-left-white{
+    border-left: 13px solid white;  
+}
+.product-container-content{
+    font-size: 18px;
+    margin-top: 26px;
+}
